@@ -3,7 +3,7 @@
 Este repositorio contiene el código fuente y el flujo de trabajo estadístico completo desarrollado para mi **Trabajo de Fin de Grado (TFG) en Estadística** por la **Universidad de Sevilla**.
 
 ## 📋 Descripción del Proyecto
-El objetivo principal de esta investigación es evaluar y comparar la robustez de una aproximación paramétrica tradicional (Modelo Lineal Generalizado - GLM) frente a dos algoritmos no paramétricos de *Machine Learning* (*Random Forest* y *Gradient Boosting Machine* - GBM) en la tarea de modelizar el nicho ecológico del pinsapo (*Abies pinsapo* Boiss.) y proyectar su vulnerabilidad geográfica ante escenarios de cambio climático (CMIP6: SSP2-4.5 y SSP5-8.5) con horizonte al año 2050.
+El objetivo principal de esta investigación es evaluar y comparar la robustez de una aproximación paramétrica tradicional (Modelo Lineal Generalizado - GLM) frente a dos algoritmos no paramétricos de *Machine Learning* (*Random Forest* y *Gradient Boosting Machine* - GBM) en la tarea de modelizar el nicho ecológico del pinsapo (*Abies pinsapo* Boiss.) y proyectar su vulnerabilidad geográfica ante escenarios de cambio climático con horizonte al año 2050.
 
 ### 🔍 Hallazgos Clave
 * **Rendimiento:** Los modelos de ensamble superaron al GLM, alcanzando un empate técnico matemático (AUC > 0.96).
