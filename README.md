@@ -6,6 +6,7 @@ Este repositorio contiene el código fuente y el flujo de trabajo estadístico c
 El objetivo principal de esta investigación es evaluar y comparar la robustez de una aproximación paramétrica tradicional (Modelo Lineal Generalizado - GLM) frente a dos algoritmos no paramétricos de *Machine Learning* (*Random Forest* y *Gradient Boosting Machine* - GBM) en la tarea de modelizar el nicho ecológico del pinsapo (*Abies pinsapo* Boiss.) y proyectar su vulnerabilidad geográfica ante escenarios de cambio climático con horizonte al año 2050.
 
 ## 🗂️ Estructura del Repositorio
+* `Memoria_TFG_Abies_Pinsapo.pdf`: Documento final completo de la memoria del TFG en formato PDF.
 * `/datos`: Carpeta destinada a almacenar la caché local de registros de GBIF y las capas raster de WorldClim.
 * `Abies Pinsapo VC.R`: Script único en lenguaje R que automatiza todo el proceso de modelización y proyección espacial.
 
