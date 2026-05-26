@@ -15,7 +15,7 @@ El objetivo principal de esta investigación es evaluar y comparar la robustez d
 Para evitar tiempos de espera lentos con las APIs cartográficas y problemas de rutas locales, sigue estos pasos:
 
 1. **Clona o descarga** este repositorio en tu ordenador.
-2. **Descarga el dataset pre-procesado** (`datos.zip`) desde este enlace de Google Drive:  
+2. **Descarga el dataset pre-procesado** (`datos.zip`) desde este enlace de OneDrive:  
    👉 **[https://uses0-my.sharepoint.com/:u:/g/personal/fralopleo2_alum_us_es/IQALIv8XxdJbRa0nMvBW-DhPAY5n5zQ-MTGjhN8Y0PlzgPE?e=AmXFrI]**
 3. **Descomprime** el archivo `datos.zip` en la misma carpeta donde hayas guardado el script. Asegúrate de que se quede una subcarpeta llamada `datos/` justo al lado del archivo de R.
 4. **Abre el archivo `Abies Pinsapo VC.R`** en RStudio.
