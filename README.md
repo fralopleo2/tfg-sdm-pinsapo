@@ -7,7 +7,6 @@ El objetivo principal de esta investigación es evaluar y comparar la robustez d
 
 ## 🗂️ Estructura del Repositorio
 * `Memoria_TFG_Abies_Pinsapo.pdf`: Documento final completo de la memoria del TFG en formato PDF.
-* `/datos`: Carpeta destinada a almacenar la caché local de registros de GBIF y las capas raster de WorldClim.
 * `Abies Pinsapo VC.R`: Script único en lenguaje R que automatiza todo el proceso de modelización y proyección espacial.
 
 ## 🛠️ Instalación y Uso Rápido
